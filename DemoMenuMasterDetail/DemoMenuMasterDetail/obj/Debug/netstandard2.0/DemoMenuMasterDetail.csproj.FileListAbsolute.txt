@@ -1,0 +1,11 @@
+D:\XamarinProyectos\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.csprojResolveAssemblyReference.cache
+D:\XamarinProyectos\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.csproj.CoreCompileInputs.cache
+D:\XamarinProyectos\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.AlertasPage.xaml.g.cs
+D:\XamarinProyectos\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.App.xaml.g.cs
+D:\XamarinProyectos\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.ContactosPage.xaml.g.cs
+D:\XamarinProyectos\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.ListadoPage.xaml.g.cs
+D:\XamarinProyectos\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.MainPage.xaml.g.cs
+D:\XamarinProyectos\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.MasterPage.xaml.g.cs
+D:\XamarinProyectos\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.MasterPageItem.xaml.g.cs
+D:\XamarinProyectos\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.AssemblyInfoInputs.cache
+D:\XamarinProyectos\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.AssemblyInfo.cs

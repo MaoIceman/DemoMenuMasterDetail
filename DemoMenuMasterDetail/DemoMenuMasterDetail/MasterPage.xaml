@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoMenuMasterDetail.MasterPage"
+             xmlns:local="clr-namespace:DemoMenuMasterDetail"
+             Padding="0,40,0,0"
+             Icon="hamburguer.png"
+             Title="Ximian Icaza">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="listView">
+                <ListView.ItemsSource>
+                    <x:Array Type="{x:Type local:MasterPageItem}">
+                        <local:MasterPageItem Titulo="Contactos" Icono="contacts.png" TipoPagina="{x:Type local:ContactosPage}"></local:MasterPageItem>
+                        <local:MasterPageItem Titulo="Listado" Icono="todo.png" TipoPagina="{x:Type local:ListadoPage}"></local:MasterPageItem>
+                        <local:MasterPageItem Titulo="Alertas" Icono="alertas.png" TipoPagina="{x:Type local:AlertasPage}"></local:MasterPageItem>
+                    </x:Array>
+                </ListView.ItemsSource>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="5,10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="30"></ColumnDefinition>
+                                    <ColumnDefinition Width=""></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Image Source="{Binding Icono}"></Image>
+                                <Label Grid.Column="1" Text="{Binding Titulo}"></Label>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
